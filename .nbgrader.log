@@ -1,0 +1,174 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/intro-to-jupyter-for-teachers
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=3c8ab8e2a76466887bd023012b0f14c6ef5f7c1617d9cd9d
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=3c8ab8e2a76466887bd023012b0f14c6ef5f7c1617d9cd9d
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Saving file at /README.md
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/intro-to-jupyter-for-teachers
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=485e12c5430e3ab64c11fa5229693db274aea56ddec3c257
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=485e12c5430e3ab64c11fa5229693db274aea56ddec3c257
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Kernel started: 22582526-b2cd-42c7-9aa1-0516596ab5b7
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 6.21ms referer=http://localhost:8889/notebooks/index.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 22582526-b2cd-42c7-9aa1-0516596ab5b7
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Starting buffering for 22582526-b2cd-42c7-9aa1-0516596ab5b7:E3B007C9CBCE4CB9802EFB5D1327B745
+[NotebookApp | INFO] Kernel started: 371a883a-2bd8-42ee-8750-98fbf4b6ad37
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.48ms referer=http://localhost:8889/notebooks/technical-demos/unfinished%20demos/rise.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 371a883a-2bd8-42ee-8750-98fbf4b6ad37
+[NotebookApp | INFO] Kernel started: 62792afa-19ad-4d0e-af2d-760160915994
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.25ms referer=http://localhost:8889/notebooks/technical-demos/sympy.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 62792afa-19ad-4d0e-af2d-760160915994
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/rise.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/rise.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/rise.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/rise.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/rise.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/sympy.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/sympy.ipynb
+[NotebookApp | INFO] Starting buffering for 62792afa-19ad-4d0e-af2d-760160915994:E92D689FF83F41178BF04A3B082DF537
+[NotebookApp | INFO] Kernel restarted: 62792afa-19ad-4d0e-af2d-760160915994
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 62792afa-19ad-4d0e-af2d-760160915994
+[NotebookApp | INFO] Restoring connection for 62792afa-19ad-4d0e-af2d-760160915994:E92D689FF83F41178BF04A3B082DF537
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Kernel shutdown: 371a883a-2bd8-42ee-8750-98fbf4b6ad37
+[NotebookApp | INFO] Creating new notebook in /technical-demos/unfinished demos
+[NotebookApp | INFO] Kernel started: 3d07f339-433c-49e0-ab7f-17936cd0eb25
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.55ms referer=http://localhost:8889/notebooks/technical-demos/unfinished%20demos/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3d07f339-433c-49e0-ab7f-17936cd0eb25
+[NotebookApp | INFO] Saving file at /technical-demos/sympy.ipynb
+[NotebookApp | INFO] Kernel started: d3f940ac-797e-4bad-8fb5-7839b08f724d
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 0.98ms referer=http://localhost:8889/notebooks/technical-demos/unfinished%20demos/jupyterhub.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d3f940ac-797e-4bad-8fb5-7839b08f724d
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/terminal.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/jupyterhub.ipynb
+[NotebookApp | INFO] Starting buffering for d3f940ac-797e-4bad-8fb5-7839b08f724d:D94C57248B9C4815859E64CA365CA0FF
+[NotebookApp | INFO] Kernel shutdown: d3f940ac-797e-4bad-8fb5-7839b08f724d
+[NotebookApp | INFO] Saving file at /technical-demos/sympy.ipynb
+[NotebookApp | INFO] Starting buffering for 62792afa-19ad-4d0e-af2d-760160915994:E92D689FF83F41178BF04A3B082DF537
+[NotebookApp | INFO] Kernel started: 8b59733d-35f6-4984-a7f1-368fe706915f
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.42ms referer=http://localhost:8889/notebooks/technical-demos/jupyter.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8b59733d-35f6-4984-a7f1-368fe706915f
+[NotebookApp | INFO] Saving file at /technical-demos/jupyter.ipynb
+[NotebookApp | INFO] Starting buffering for 3d07f339-433c-49e0-ab7f-17936cd0eb25:3F5DD204BC674E158CB71953241185C4
+[NotebookApp | INFO] Kernel started: 202378ff-50c3-4c60-87b1-c9b360eaa9e3
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.12ms referer=http://localhost:8889/notebooks/technical-demos/rise.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 202378ff-50c3-4c60-87b1-c9b360eaa9e3
+[NotebookApp | INFO] Saving file at /technical-demos/rise.ipynb
+[NotebookApp | INFO] Starting buffering for 202378ff-50c3-4c60-87b1-c9b360eaa9e3:89F594EA9C70403DA3ACA5E533D7665C
+[NotebookApp | INFO] Kernel started: 2886378c-a04b-47f6-93af-4b0644b7fead
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 0.95ms referer=http://localhost:8889/notebooks/technical-demos/mybinder.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2886378c-a04b-47f6-93af-4b0644b7fead
+[NotebookApp | INFO] Saving file at /technical-demos/mybinder.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/mybinder.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/mybinder.ipynb
+[NotebookApp | INFO] Kernel started: 95867be0-fded-49e4-a67c-d0fa342d7775
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 0.99ms referer=http://localhost:8889/notebooks/technical-demos/unfinished%20demos/docker.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 95867be0-fded-49e4-a67c-d0fa342d7775
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/docker.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/docker.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/docker.ipynb
+[NotebookApp | INFO] Starting buffering for 95867be0-fded-49e4-a67c-d0fa342d7775:C4637BBE95B341888094F480090CABD5
+[NotebookApp | INFO] Kernel shutdown: 95867be0-fded-49e4-a67c-d0fa342d7775
+[NotebookApp | INFO] Kernel started: d6e946ff-467d-423b-80cf-508e80d76160
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 0.98ms referer=http://localhost:8889/notebooks/technical-demos/unfinished%20demos/git.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d6e946ff-467d-423b-80cf-508e80d76160
+[NotebookApp | INFO] Starting buffering for d6e946ff-467d-423b-80cf-508e80d76160:A2B455A68C64465CB45EAE5164BA4D67
+[NotebookApp | INFO] Saving file at /technical-demos/jupyter.ipynb
+[NotebookApp | INFO] Starting buffering for 8b59733d-35f6-4984-a7f1-368fe706915f:63BCA608EDC649E88286E675A3CB8178
+[NotebookApp | INFO] Saving file at /technical-demos/mybinder.ipynb
+[NotebookApp | INFO] Starting buffering for 2886378c-a04b-47f6-93af-4b0644b7fead:B1FDF11F04A043E0861D9E6E9E3A559A
+[NotebookApp | INFO] Kernel shutdown: d6e946ff-467d-423b-80cf-508e80d76160
+[NotebookApp | INFO] Kernel shutdown: 3d07f339-433c-49e0-ab7f-17936cd0eb25
+[NotebookApp | INFO] Kernel shutdown: 8b59733d-35f6-4984-a7f1-368fe706915f
+[NotebookApp | INFO] Kernel shutdown: 62792afa-19ad-4d0e-af2d-760160915994
+[NotebookApp | INFO] Kernel shutdown: 202378ff-50c3-4c60-87b1-c9b360eaa9e3
+[NotebookApp | INFO] Kernel shutdown: 2886378c-a04b-47f6-93af-4b0644b7fead
+[NotebookApp | WARNING] Notebook index.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 22582526-b2cd-42c7-9aa1-0516596ab5b7
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 0.90ms referer=http://localhost:8889/notebooks/index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Starting buffering for 22582526-b2cd-42c7-9aa1-0516596ab5b7:9DB3802817F84E638E665707F014C42F
+[NotebookApp | INFO] Creating new notebook in /technical-demos
+[NotebookApp | INFO] Kernel started: e1946613-60c1-4ca8-b3d8-18d931b00c96
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.37ms referer=http://localhost:8889/notebooks/technical-demos/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e1946613-60c1-4ca8-b3d8-18d931b00c96
+[NotebookApp | INFO] Kernel started: 6c18bb70-51cd-40cd-8907-b26a5084ac50
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.45ms referer=http://localhost:8889/notebooks/technical-demos/sympy.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c18bb70-51cd-40cd-8907-b26a5084ac50
+[NotebookApp | INFO] Saving file at /technical-demos/nbgitpuller.ipynb
+[NotebookApp | INFO] Starting buffering for e1946613-60c1-4ca8-b3d8-18d931b00c96:31E34D873E47444089ADB8EF5FE4B44B
+[NotebookApp | INFO] Kernel shutdown: e1946613-60c1-4ca8-b3d8-18d931b00c96
+[NotebookApp | INFO] Saving file at /technical-demos/sympy.ipynb
+[NotebookApp | INFO] Starting buffering for 6c18bb70-51cd-40cd-8907-b26a5084ac50:51FBF7927881409292576A3652B926D4
+[NotebookApp | WARNING] Notebook technical-demos/plotly.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.33ms referer=http://localhost:8889/notebooks/technical-demos/plotly.ipynb
+[NotebookApp | INFO] Kernel started: abc2feaf-f0fe-4492-b5ee-425363926b1a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel abc2feaf-f0fe-4492-b5ee-425363926b1a
+[NotebookApp | INFO] Saving file at /technical-demos/plotly.ipynb
+[NotebookApp | WARNING] Notebook technical-demos/plotly.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for abc2feaf-f0fe-4492-b5ee-425363926b1a:6B344992995B4B888827BC017BA9C066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c18bb70-51cd-40cd-8907-b26a5084ac50
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.03ms referer=http://localhost:8889/notebooks/technical-demos/sympy.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/sympy.ipynb
+[NotebookApp | INFO] Starting buffering for 6c18bb70-51cd-40cd-8907-b26a5084ac50:629C1A4646314D728675076A1415D0F6
+[NotebookApp | INFO] Creating new notebook in /technical-demos
+[NotebookApp | INFO] Kernel started: d8ed3407-213c-458e-8d2f-d0c2ec5b66a4
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.19ms referer=http://localhost:8889/notebooks/technical-demos/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d8ed3407-213c-458e-8d2f-d0c2ec5b66a4
+[NotebookApp | INFO] Saving file at /technical-demos/latex.ipynb
+[NotebookApp | INFO] Starting buffering for d8ed3407-213c-458e-8d2f-d0c2ec5b66a4:0377673FA96F4345813A0A824C824C85
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c18bb70-51cd-40cd-8907-b26a5084ac50
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.03ms referer=http://localhost:8889/notebooks/technical-demos/sympy.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d8ed3407-213c-458e-8d2f-d0c2ec5b66a4
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.29ms referer=http://localhost:8889/notebooks/technical-demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/sympy.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/sympy.ipynb
+[NotebookApp | INFO] Starting buffering for 6c18bb70-51cd-40cd-8907-b26a5084ac50:1F144EC56EAF4631B125AB181B5B4AE0
+[NotebookApp | INFO] Starting buffering for d8ed3407-213c-458e-8d2f-d0c2ec5b66a4:39137CA5B664473E9D5E3FC547F46F80
+[NotebookApp | INFO] Kernel shutdown: d8ed3407-213c-458e-8d2f-d0c2ec5b66a4
+[NotebookApp | INFO] Kernel shutdown: abc2feaf-f0fe-4492-b5ee-425363926b1a
+[NotebookApp | INFO] Kernel shutdown: 6c18bb70-51cd-40cd-8907-b26a5084ac50
+[NotebookApp | INFO] Kernel shutdown: 22582526-b2cd-42c7-9aa1-0516596ab5b7
