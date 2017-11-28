@@ -228,3 +228,14 @@
 [NotebookApp | INFO] Starting buffering for f97dd35e-d525-4413-ab46-a7bf4d48d0f0:79E349FC62BF4FAC89B6E112D5CA978A
 [NotebookApp | INFO] Starting buffering for 63d5ca1c-75cd-49bd-95c4-a5608445b31b:04A3DB2B859D4A5C8EBE15F58583837D
 [NotebookApp | INFO] Starting buffering for 21776672-2e17-46fa-9252-5c3e81f5b8c1:F3E8E0E693504B6C81AD5252FBA853B0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f97dd35e-d525-4413-ab46-a7bf4d48d0f0
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 0.91ms referer=http://localhost:8889/notebooks/index.ipynb
+[NotebookApp | INFO] Kernel started: 132dbd9a-d84c-4f3d-b0fb-e824510959f7
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 1.51ms referer=http://localhost:8889/notebooks/pedagogical-demos/workshops.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 132dbd9a-d84c-4f3d-b0fb-e824510959f7
+[NotebookApp | WARNING] Notebook pedagogical-demos/lectures-and-lecture-notes.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 63d5ca1c-75cd-49bd-95c4-a5608445b31b
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171127232938 (127.0.0.1) 0.86ms referer=http://localhost:8889/notebooks/pedagogical-demos/lectures-and-lecture-notes.ipynb
+[NotebookApp | INFO] Saving file at /pedagogical-demos/workshops.ipynb
+[NotebookApp | INFO] Saving file at /pedagogical-demos/lectures-and-lecture-notes.ipynb
+[NotebookApp | INFO] Saving file at /pedagogical-demos/lectures-and-lecture-notes.ipynb
