@@ -239,3 +239,176 @@
 [NotebookApp | INFO] Saving file at /pedagogical-demos/workshops.ipynb
 [NotebookApp | INFO] Saving file at /pedagogical-demos/lectures-and-lecture-notes.ipynb
 [NotebookApp | INFO] Saving file at /pedagogical-demos/lectures-and-lecture-notes.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\eriki\dev\edu\intro-to-jupyter-for-teachers
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=605f3a163924d68c914d5ddb184a9ddbf21dc5d97229bce2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=605f3a163924d68c914d5ddb184a9ddbf21dc5d97229bce2
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook index.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 204cd956-348c-4fa3-8e70-ffa164fdd342
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 204cd956-348c-4fa3-8e70-ffa164fdd342
+[NotebookApp | WARNING] Notebook technical-demos/unfinished demos/latex.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1fe74818-3d95-4264-a551-944546946b28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1fe74818-3d95-4264-a551-944546946b28
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/latex.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.6.0 (::1) 56.03ms referer=http://localhost:8888/notebooks/technical-demos/unfinished%20demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/latex.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1fe74818-3d95-4264-a551-944546946b28
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /technical-demos/unfinished demos/latex.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Creating new notebook in /technical-demos
+[NotebookApp | INFO] Kernel started: 5b46e9c8-4000-4d8e-8aa2-de1b2e704edf
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5b46e9c8-4000-4d8e-8aa2-de1b2e704edf
+[NotebookApp | INFO] Saving file at /technical-demos/markdown.ipynb
+[NotebookApp | INFO] Kernel shutdown: 5b46e9c8-4000-4d8e-8aa2-de1b2e704edf
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | WARNING] Unknown error renaming file: technical-demos/markdown.ipynb [Errno 2] No such file or directory: 'C:\\Users\\eriki\\dev\\edu\\intro-to-jupyter-for-teachers\\technical-demos\\unfinished_demos\\markdown.ipynb'
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "59",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "http://localhost:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|c562823c|ed794cbfe08569466d997e33f3532172|1511183143",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+      "Content-Type": "application/json",
+      "Referer": "http://localhost:8888/tree/technical-demos",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9,sv;q=0.8",
+      "Cookie": "_xsrf=2|c562823c|ed794cbfe08569466d997e33f3532172|1511183143; username-localhost-8888=\"2|1:0|10:1512141626|23:username-localhost-8888|44:ZGY1N2M1OThhZjBhNDIwMjlhYmU2ZGU4MTFmMGVkYzY=|61026728c2138c14418a4fdc83f56f5475f4f4dc83c8f5eb72aa8f3c7de11882\""
+    }
+[NotebookApp | ERROR] 500 PATCH /api/contents/technical-demos/markdown.ipynb (::1) 4.03ms referer=http://localhost:8888/tree/technical-demos
+[NotebookApp | WARNING] Unknown error renaming file: technical-demos/markdown.ipynb [Errno 2] No such file or directory: 'C:\\Users\\eriki\\dev\\edu\\intro-to-jupyter-for-teachers\\technical-demos\\unfinished-demos\\markdown.ipynb'
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "59",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "http://localhost:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|c562823c|ed794cbfe08569466d997e33f3532172|1511183143",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+      "Content-Type": "application/json",
+      "Referer": "http://localhost:8888/tree/technical-demos",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9,sv;q=0.8",
+      "Cookie": "_xsrf=2|c562823c|ed794cbfe08569466d997e33f3532172|1511183143; username-localhost-8888=\"2|1:0|10:1512141626|23:username-localhost-8888|44:ZGY1N2M1OThhZjBhNDIwMjlhYmU2ZGU4MTFmMGVkYzY=|61026728c2138c14418a4fdc83f56f5475f4f4dc83c8f5eb72aa8f3c7de11882\""
+    }
+[NotebookApp | ERROR] 500 PATCH /api/contents/technical-demos/markdown.ipynb (::1) 4.01ms referer=http://localhost:8888/tree/technical-demos
+[NotebookApp | WARNING] Permission denied: technical-demos/unfinished demos
+[NotebookApp | WARNING] 403 PATCH /api/contents/technical-demos/unfinished%20demos (::1) 128.01ms referer=http://localhost:8888/tree/technical-demos
+[NotebookApp | WARNING] delete /technical-demos/unfinished demos
+[NotebookApp | WARNING] Permission denied: technical-demos/unfinished demos
+[NotebookApp | WARNING] 403 DELETE /api/contents/technical-demos/unfinished%20demos (::1) 12.00ms referer=http://localhost:8888/tree/technical-demos
+[NotebookApp | WARNING] Notebook technical-demos/unfinished-demos/git.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 55a068e1-13c0-4426-a1e5-2c45e9883a0f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 55a068e1-13c0-4426-a1e5-2c45e9883a0f
+[NotebookApp | WARNING] Notebook technical-demos/unfinished-demos/ipyvolume.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4d9c43a0-386f-4e63-ae2d-249b03668f16
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4d9c43a0-386f-4e63-ae2d-249b03668f16
+[NotebookApp | INFO] Kernel started: 3196bbcc-683d-4d97-988a-851afc2fddf4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3196bbcc-683d-4d97-988a-851afc2fddf4
+[NotebookApp | INFO] Kernel shutdown: 55a068e1-13c0-4426-a1e5-2c45e9883a0f
+[NotebookApp | INFO] Kernel shutdown: 3196bbcc-683d-4d97-988a-851afc2fddf4
+[NotebookApp | INFO] Kernel shutdown: 4d9c43a0-386f-4e63-ae2d-249b03668f16
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\eriki\dev\edu\intro-to-jupyter-for-teachers
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8889/?token=a34e027476940f722534a2afe5e1969dfcddb04abd8647a3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=a34e027476940f722534a2afe5e1969dfcddb04abd8647a3
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 24da789c-dc5e-4b10-b718-4cce9b534335
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 24da789c-dc5e-4b10-b718-4cce9b534335
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Kernel restarted: 24da789c-dc5e-4b10-b718-4cce9b534335
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 24da789c-dc5e-4b10-b718-4cce9b534335
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] Saving file at /index.ipynb
