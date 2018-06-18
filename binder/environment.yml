@@ -1,0 +1,12 @@
+# This file declares what conda and pip packages are required on the server in order to run properly
+# MyBinder.org and other services will by convention install these automatically
+channels:
+- conda-forge
+dependencies:
+- jupyterlab
+- numpy
+- matplotlib
+- ipywidgets
+- pandas
+- pip:
+  - bash_kernel

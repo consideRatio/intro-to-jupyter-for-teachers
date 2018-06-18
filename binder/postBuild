@@ -1,0 +1,5 @@
+# Install bash_kernel...
+python -m bash_kernel.install
+
+# Install JupyterLab extensions
+jupyter labextension install @jupyterlab/plotly-extension
